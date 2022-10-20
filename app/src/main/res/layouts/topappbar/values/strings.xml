@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="top_app_bar">Top App Bar</string>
+    <string name="content_description_delete">Content Description Delete</string>
+    <string name="content_description_favorite">Content Description Favorite</string>
+    <string name="content_description_media">Content Description Media</string>
+    <string name="content_description_share">Content Description Share</string>
+    <string name="page_title">Page Title</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>

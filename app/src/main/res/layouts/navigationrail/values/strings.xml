@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alarms">Alarms</string>
+    <string name="schedule">Schedule</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer">Timer</string>
+</resources>

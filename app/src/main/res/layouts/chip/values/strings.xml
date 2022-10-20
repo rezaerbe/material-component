@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="input_3">Input 3</string>
+    <string name="choice_1">Choice 1</string>
+    <string name="choice_2">Choice 2</string>
+    <string name="choice_3">Choice 3</string>
+    <string name="filter_1">Filter 1</string>
+    <string name="filter_2">Filter 2</string>
+    <string name="filter_3">Filter 3</string>
+    <string name="action_3">Action 3</string>
+    <string name="standalone_chip">Standalone Chip</string>
+</resources>

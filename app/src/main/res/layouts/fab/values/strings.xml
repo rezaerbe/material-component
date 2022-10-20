@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extended_fab">Extended Fab</string>
+    <string name="content_description_fab_mini">Content Description Fab Mini</string>
+    <string name="content_description_fab_extended">Content Description Fab Extended</string>
+</resources>

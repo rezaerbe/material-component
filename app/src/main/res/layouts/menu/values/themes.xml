@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Menu" parent="Theme.Shrine">
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Menu.Subtitle1</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Menu.Subtitle1</item>
+        <item name="popupMenuBackground">@drawable/custom_popup_background</item>
+        <item name="popupMenuStyle">@style/Widget.App.PopupMenu</item>
+        <item name="textInputStyle">@style/Widget.App.OutlinedBox.ExposedDropdownMenu</item>
+    </style>
+
+    <style name="TextAppearance.Menu.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textColor">@color/shrine_pink_900</item>
+    </style>
+
+    <style name="Widget.App.PopupMenu" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@drawable/custom_popup_background</item>
+    </style>
+
+    <style name="Widget.App.OutlinedBox.ExposedDropdownMenu" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.ExposedDropdownMenu</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="hintTextColor">?attr/colorOnSurface</item>
+        <item name="endIconTint">?attr/colorOnSurface</item>
+    </style>
+
+    <style name="Widget.App.FilledBox.ExposedDropdownMenu" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.ExposedDropdownMenu</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="hintTextColor">?attr/colorOnSurface</item>
+        <item name="endIconTint">?attr/colorOnSurface</item>
+    </style>
+
+    <style name="ThemeOverlay.App.ExposedDropdownMenu" parent="">
+        <item name="colorPrimary">@color/shrine_pink_100</item>
+        <item name="colorOnSurface">@color/shrine_pink_900</item>
+        <item name="colorError">@color/shrine_error_red</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.App.Subtitle1</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.App.Caption</item>
+        <item name="autoCompleteTextViewStyle">
+            @style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox
+        </item>
+    </style>
+</resources>

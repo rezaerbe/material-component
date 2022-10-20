@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/additions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/additions" />
+
+        <CheckBox
+            android:id="@+id/pickles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:text="@string/pickles" />
+
+        <CheckBox
+            android:id="@+id/tomato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:text="@string/tomato" />
+
+    </LinearLayout>
+
+</merge>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NavigationRail" parent="Theme.Shrine">
+        <item name="navigationRailStyle">@style/Widget.App.NavigationRailView</item>
+    </style>
+
+    <style name="Widget.App.NavigationRailView" parent="Widget.MaterialComponents.NavigationRailView.Colored">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.NavigationRailView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.NavigationRailView" parent="">
+        <item name="colorPrimary">@color/shrine_pink_100</item>
+        <item name="colorOnPrimary">@color/shrine_pink_900</item>
+    </style>
+</resources>

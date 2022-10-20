@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="decline">Decline</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="ok">OK</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="full_screen_dialog">Full Screen Dialog</string>
+    <string name="simple_dialog">Simple Dialog</string>
+    <string name="confirmation_dialog_single">Confirmation Dialog Single</string>
+    <string name="confirmation_dialog_multi">Confirmation Dialog Multi</string>
+</resources>

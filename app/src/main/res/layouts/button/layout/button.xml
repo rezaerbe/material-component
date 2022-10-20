@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- style="@style/Widget.MaterialComponents.Button.TextButton.Icon" -->
+    <!-- app:icon="@drawable/ic_add" -->
+    <!-- style="@style/Widget.App.Button.TextButton" -->
+    <Button
+        android:id="@+id/text_button"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/text_button" />
+
+    <!-- style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon" -->
+    <!-- app:icon="@drawable/ic_add" -->
+    <!-- style="@style/Widget.App.Button.OutlinedButton" -->
+    <Button
+        android:id="@+id/outlined_button"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/outlined_button" />
+
+    <!-- style="@style/Widget.MaterialComponents.Button.Icon" -->
+    <!-- app:icon="@drawable/ic_add" -->
+    <!-- style="@style/Widget.App.Button" -->
+    <Button
+        android:id="@+id/contained_button"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/contained_button" />
+
+</merge>

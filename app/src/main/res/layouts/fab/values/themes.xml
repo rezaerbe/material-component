@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Fab" parent="Theme.Shrine">
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="extendedFloatingActionButtonStyle">
+            @style/Widget.Fab.ExtendedFloatingActionButton
+        </item>
+        <item name="floatingActionButtonStyle">
+            @style/Widget.Fab.FloatingActionButton
+        </item>
+    </style>
+
+    <style name="Widget.Fab.ExtendedFloatingActionButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton.Icon">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.Fab.FloatingActionButton</item>
+        <item name="shapeAppearanceOverlay">
+            @style/ShapeAppearance.App.SmallComponent
+        </item>
+    </style>
+
+    <style name="Widget.Fab.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.Fab.FloatingActionButton</item>
+        <item name="shapeAppearanceOverlay">
+            @style/ShapeAppearance.App.SmallComponent
+        </item>
+    </style>
+
+    <style name="ThemeOverlay.Fab.FloatingActionButton" parent="">
+        <item name="colorSecondary">@color/shrine_pink_100</item>
+        <item name="colorOnSecondary">@color/shrine_pink_900</item>
+        <item name="colorOnSurface">@color/shrine_pink_900</item>
+    </style>
+</resources>

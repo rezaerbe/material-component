@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- app:singleLine="true" -->
+    <!-- app:singleSelection="true" -->
+    <!-- style="@style/Widget.App.Chip" -->
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chip_group_choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:singleSelection="true"
+        android:layout_margin="8dp">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_choice_1"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/choice_1" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_choice_2"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choice_2" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_choice_3"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choice_3" />
+
+    </com.google.android.material.chip.ChipGroup>
+
+</merge>

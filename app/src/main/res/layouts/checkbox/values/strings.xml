@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="checkbox_1">Checkbox 1</string>
+    <string name="checkbox_2">Checkbox 2</string>
+    <string name="checkbox_3">Checkbox 3</string>
+    <string name="additions">Additions</string>
+    <string name="pickles">Pickles</string>
+    <string name="tomato">Tomato</string>
+</resources>

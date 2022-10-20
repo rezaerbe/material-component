@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorSurface"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- style="@style/MaterialAlertDialog.App.Title.Text" -->
+    <!-- style="@style/MaterialAlertDialog.MaterialComponents.Title.Text" -->
+    <TextView
+        android:id="@+id/dialog_title"
+        style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/title" />
+
+    <TextView
+        android:id="@+id/dialog_text"
+        style="@style/MaterialAlertDialog.MaterialComponents.Body.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/supporting_text" />
+
+    <!-- style=@style/Widget.Dialog.Button" -->
+    <!-- style=@style/Widget.MaterialComponents.Button.TextButton.Dialog -->
+    <Button
+        android:id="@+id/dialog_button"
+        style="@style/Widget.MaterialComponents.Button.TextButton.Dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/dismiss" />
+
+</LinearLayout>

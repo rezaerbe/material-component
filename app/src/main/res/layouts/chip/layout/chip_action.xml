@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- app:singleLine="true" -->
+    <!-- app:singleSelection="true" -->
+    <!-- style="@style/Widget.App.Chip" -->
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chip_group_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_action_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/action_1"
+            app:chipIcon="@drawable/ic_favorite" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_action_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/action_2"
+            app:chipIcon="@drawable/ic_delete" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_action_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/action_3"
+            app:chipIcon="@drawable/ic_place" />
+
+    </com.google.android.material.chip.ChipGroup>
+
+</merge>

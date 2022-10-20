@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/chip.xml" value="0.211" />
+        <entry key="app/src/main/res/drawable/custom_popup_background.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/ic_3d_rotation.xml" value="0.1165" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_archive.xml" value="0.211" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.1355" />
+        <entry key="app/src/main/res/drawable/ic_favorite_border.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_music_note.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_newspaper.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_notifications.xml" value="0.211" />
+        <entry key="app/src/main/res/drawable/ic_place.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/sl_checkbox.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/sl_favourite.xml" value="0.211" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/bottom_app_bar_center.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/bottom_app_bar_cut.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/bottom_app_bar_end.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/bottom_app_bar_no.xml" value="0.35" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/content_bottom_app_bar.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/layout/fragment_bottom_app_bar.xml" value="0.3592039800995025" />
+        <entry key="app/src/main/res/layouts/bottomappbar/menu/bottom_app_bar.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomappbar/menu/bottom_app_bar_lot.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomnavigation/layout/bottom_navigation.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/layouts/bottomnavigation/layout/content_bottom_navigation.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomnavigation/layout/fragment_bottom_navigation.xml" value="0.37025641025641026" />
+        <entry key="app/src/main/res/layouts/bottomnavigation/menu/bottom_navigation_menu.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/bottomsheet/layout/fragment_bottom_sheet.xml" value="0.175" />
+        <entry key="app/src/main/res/layouts/bottomsheet/layout/modal_bottom_sheet_content.xml" value="0.35555555555555557" />
+        <entry key="app/src/main/res/layouts/button/layout/button.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/button/layout/checkbox.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/button/layout/checkbox_button.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/button/layout/fragment_button.xml" value="0.35" />
+        <entry key="app/src/main/res/layouts/button/layout/toggle_button.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/button/layout/toggle_icon.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/card/layout/card.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/card/layout/card_elevated.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layouts/card/layout/card_outlined.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/card/layout/fragment_card.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layouts/checkbox/layout/checkbox.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/checkbox/layout/checkbox_parent_child.xml" value="0.2851851851851852" />
+        <entry key="app/src/main/res/layouts/checkbox/layout/fragment_checkbox.xml" value="0.35462962962962963" />
+        <entry key="app/src/main/res/layouts/chip/layout/chip_action.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/chip/layout/chip_choice.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/chip/layout/chip_filter.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/chip/layout/chip_input.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layouts/chip/layout/fragment_chip.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/chip/xml/chip.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/dialog/layout/fragment_custom_dialog.xml" value="0.175" />
+        <entry key="app/src/main/res/layouts/dialog/layout/fragment_dialog.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layouts/divider/layout/fragment_divider.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/divider/layout/item_divider.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/fab/layout/fab.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/layouts/fab/layout/fragment_fab.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/menu/layout/fragment_menu.xml" value="0.3527777777777778" />
+        <entry key="app/src/main/res/layouts/menu/layout/list_popup_window_item.xml" value="0.175" />
+        <entry key="app/src/main/res/layouts/menu/layout/menu_overflow.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/menu/layout/menu_popup.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/menu/menu/overflow_menu.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/layout/fragment_navigation_drawer.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/layout/header_navigation_drawer.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/layout/navigation_drawer_bottom.xml" value="0.35555555555555557" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/layout/navigation_drawer_modal.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/layout/navigation_drawer_standard.xml" value="0.35555555555555557" />
+        <entry key="app/src/main/res/layouts/navigationdrawer/menu/navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layouts/navigationrail/layout/fragment_navigation_rail.xml" value="0.175" />
+        <entry key="app/src/main/res/layouts/navigationrail/layout/navigation_rail_fab.xml" value="0.35555555555555557" />
+        <entry key="app/src/main/res/layouts/navigationrail/menu/navigation_rail_menu.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/progress/layout/fragment_progress.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/radio/layout/fragment_radio.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/topappbar/layout/content_top_app_bar.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layouts/topappbar/layout/fragment_top_app_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/layouts/topappbar/layout/top_app_bar_image.xml" value="0.3287037037037037" />
+        <entry key="app/src/main/res/layouts/topappbar/layout/top_app_bar_prominent.xml" value="0.1" />
+        <entry key="app/src/main/res/layouts/topappbar/layout/top_app_bar_regular.xml" value="0.3287037037037037" />
+        <entry key="app/src/main/res/layouts/topappbar/menu/contextual_action_bar.xml" value="0.3287037037037037" />
+        <entry key="app/src/main/res/layouts/topappbar/menu/top_app_bar.xml" value="0.37604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33611111111111114" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
